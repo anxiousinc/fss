@@ -1,0 +1,2 @@
+# fss
+File Sharing System (FSS) is the system that aims to solve the problem file transfer among client in the LAN or WAN connection with the ability of one client to upload a file and other to download at other end without having any problem. It is created to solve the issue of using removable storage such as flash disks everytime a client wants to get a file from one computer to the next. Feel free to clone or download the project and modify to adapt to your environment.
